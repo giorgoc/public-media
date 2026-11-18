@@ -1,13 +1,13 @@
-{
-  "version": "0.2.0",
-  "released": "2026-11-16",
-  "file": "AriaMCP.exe",
-  "sha256": "5a5d3181031728ad88d4a4cfb12cc07f6d2d56d00a4f091b334c68eb956291fc",
-  "size": 13163008,
-  "notes": [
-    {
-      "text": "First build published to the update folder.",
-      "title": "AriaMCP 0.2.0"
-    }
-  ]
+﻿{
+    "version":  "0.2.1",
+    "released":  "2026-11-18",
+    "file":  "AriaMCP.exe",
+    "sha256":  "28e99414dc64f10ca0052ffbfe0011b94ca7d61e555abe7b05d0aa595f2fc3e1",
+    "size":  13194752,
+    "notes":  [
+                  {
+                      "text":  "Updates are downloaded from GitHub and installed only when they are signed with your key.",
+                      "title":  "Updates from GitHub"
+                  }
+              ]
 }
